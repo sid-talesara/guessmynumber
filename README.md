@@ -1,2 +1,5 @@
 # guessmynumber
-game to guess the number
+
+This is game of guessing!
+
+created by Siddharth Talesara

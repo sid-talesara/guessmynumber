@@ -1,6 +1,6 @@
 'use strict';
 //DOM= Document object model
-
+//hahahah
 //variable declaration
 let random=Math.trunc(Math.random()*20)+1; //random number generator logic
 let score=20;
